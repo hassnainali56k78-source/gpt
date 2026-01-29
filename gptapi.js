@@ -52,7 +52,7 @@ export default {
 
       return new Response(JSON.stringify({
         "Join": "https://t.me/DarkTechZone",
-        "response": DarkTechZone,
+        "response": ashlynn,
         "status": 200,
         "successful": "success"
       }), {
